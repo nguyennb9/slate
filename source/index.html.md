@@ -138,6 +138,9 @@ import kittn
 api = kittn.authorize('meowmeowmeow')
 api.kittens.get(2)
 ```
+```php
+echo new;
+```
 
 ```shell
 curl "http://example.com/api/kittens/2"
