@@ -108,6 +108,10 @@ This endpoint retrieves all kittens.
 
 `GET http://example.com/api/kittens`
 
+### TEST 1: Big title
+
+`GET http://finn/test`
+
 ### Query Parameters
 
 Parameter | Default | Description
@@ -166,3 +170,8 @@ Parameter | Description
 --------- | -----------
 ID | The ID of the kitten to retrieve
 
+### And this is the new one
+
+parameter1 | parameter2
+--------- | -----------
+blabla | more than this
